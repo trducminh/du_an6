@@ -7,3 +7,9 @@
 .bai li {
   color: blueviolet;
 }
+[target] {
+  color: red;
+}
+p {
+  color: brown;
+}
